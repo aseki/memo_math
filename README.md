@@ -65,6 +65,12 @@
      
 ![formula](https://latex.codecogs.com/gif.latex?\sin\beta=\frac{-a}{\sqrt{a^2+b^2}})
 
+### 2倍角の公式
 
+![formula](https://latex.codecogs.com/gif.latex?\sin2\alpha=2\sin\alpha\cos\alpha)
+
+
+
+### テスト
 ![formula](https://latex.codecogs.com/gif.latex?\sum_{n=1}^{N}a_n)
 
