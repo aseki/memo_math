@@ -52,7 +52,7 @@
 このとき
 
 ![formula](https://latex.codecogs.com/gif.latex?\cos\alpha=\frac{a}{\sqrt{a^2+b^2}})
-![formula](https://latex.codecogs.com/gif.latex?\sin\alpha=\frac{b}{\sqrt{a^2+b^2}})
+     ![formula](https://latex.codecogs.com/gif.latex?\sin\alpha=\frac{b}{\sqrt{a^2+b^2}})
 
 
 ![formula](https://latex.codecogs.com/gif.latex?\sum_{n=1}^{N}a_n)
