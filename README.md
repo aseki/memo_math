@@ -29,6 +29,10 @@
 
 ![formula](https://latex.codecogs.com/gif.latex?1+\tan^{2}\theta=\frac{1}{\cos^{2}\theta})
 
+## 加法定理
+
+![formula](https://latex.codecogs.com/gif.latex?\sin(\alpha+\beta)=\sin\alpha\cos\beta+\cos\alpha\sin\beta)
+
 ## 三角関数の合成
 
 ![formula](https://latex.codecogs.com/gif.latex?a\sin\theta+b\cos\theta=\sqrt{a^{2}+b^{2}}\cos(\theta+\beta))
