@@ -19,6 +19,8 @@
 
 ![formula](https://latex.codecogs.com/gif.latex?\cos(\theta+\pi)=-\cos\theta)
 
+### 正接
+
 ![formula](https://latex.codecogs.com/gif.latex?\tan\theta=\frac{\sin\theta}{\cos\theta})
 
 ## 三角関数の合成
