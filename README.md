@@ -15,6 +15,12 @@
 
 ![formula](https://latex.codecogs.com/gif.latex?\cos(\theta+\frac{\pi}{2})=-\sin\theta)
 
+![formula](https://latex.codecogs.com/gif.latex?\sin(\theta+\pi)=-\sin\theta)
+
+![formula](https://latex.codecogs.com/gif.latex?\cos(\theta+\pi)=-\cos\theta)
+
+![formula](https://latex.codecogs.com/gif.latex?\tan\theta=\frac{\sin\theta}{\cos\theta})
+
 ## 三角関数の合成
 
 ![formula](https://latex.codecogs.com/gif.latex?a\sin\theta+b\cos\theta=\sqrt{a^{2}+b^{2}}\cos(\theta+\beta))
