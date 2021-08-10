@@ -23,6 +23,11 @@
 
 ![formula](https://latex.codecogs.com/gif.latex?\tan\theta=\frac{\sin\theta}{\cos\theta})
 
+![formula](https://latex.codecogs.com/gif.latex?\tan(-\theta)=-\tan\theta)
+
+![formula](https://latex.codecogs.com/gif.latex?\tan(\theta+n\pi)=\tan\theta)
+
+
 ## 三角関数の合成
 
 ![formula](https://latex.codecogs.com/gif.latex?a\sin\theta+b\cos\theta=\sqrt{a^{2}+b^{2}}\cos(\theta+\beta))
