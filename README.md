@@ -55,7 +55,7 @@
      
 ![formula](https://latex.codecogs.com/gif.latex?\sin\alpha=\frac{b}{\sqrt{a^2+b^2}})
 
-また![formula](https://latex.codecogs.com/gif.latex?\beta=\alpha-frac{\pi}{2})とおけば
+また![formula](https://latex.codecogs.com/gif.latex?\beta=\alpha-\frac{\pi}{2})とおけば
 
 
 
