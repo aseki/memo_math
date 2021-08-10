@@ -27,6 +27,7 @@
 
 ![formula](https://latex.codecogs.com/gif.latex?\tan(\theta+n\pi)=\tan\theta)
 
+![formula](https://latex.codecogs.com/gif.latex?1+\tan^{2}\theta=\frac{1}{\cos^{2}\theta})
 
 ## 三角関数の合成
 
