@@ -33,6 +33,16 @@
 
 ![formula](https://latex.codecogs.com/gif.latex?\sin(\alpha+\beta)=\sin\alpha\cos\beta+\cos\alpha\sin\beta)
 
+![formula](https://latex.codecogs.com/gif.latex?\sin(\alpha-\beta)=\sin\alpha\cos\beta-\cos\alpha\sin\beta)
+
+![formula](https://latex.codecogs.com/gif.latex?\cos(\alpha+\beta)=\cos\alpha\cos\beta-\sin\alpha\sin\beta)
+
+![formula](https://latex.codecogs.com/gif.latex?\cos(\alpha-\beta)=\cos\alpha\cos\beta+\sin\alpha\sin\beta)
+
+### 正接の加法定理
+
+![formula](https://latex.codecogs.com/gif.latex?\tan(\alpha+\beta)=\frac{\tan\alpha+\tan\beta}{1-\tan\alpha\tan\beta})
+
 ## 三角関数の合成
 
 ![formula](https://latex.codecogs.com/gif.latex?a\sin\theta+b\cos\theta=\sqrt{a^{2}+b^{2}}\cos(\theta+\beta))
