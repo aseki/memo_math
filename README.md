@@ -5,4 +5,4 @@
 
 ## 三角関数の合成
 
-![formula](https://latex.codecogs.com/gif.latex?a\sin\theta+b\cos\theta=\sqrt{a^{2}+b^{2}}\cos(\theta+\beta))
+![formula](https://latex.codecogs.com/gif.latex?\huge a\sin\theta+b\cos\theta=\sqrt{a^{2}+b^{2}}\cos(\theta+\beta))
