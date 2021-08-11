@@ -67,8 +67,11 @@
 
 ### 2倍角の公式
 
-![formula](https://latex.codecogs.com/gif.latex?\sin2\alpha=2\sin\alpha\cos\alpha)
+![formula](https://latex.codecogs.com/gif.latex?\sin2\theta=2\sin\theta\cos\theta)
 
+![formula](https://latex.codecogs.com/gif.latex?\cos2\theta=\cos^2\theta-sin^2\theta)
+
+![formula](https://latex.codecogs.com/gif.latex?\tan2\theta=\frac{2\tan\theta}{1-\tan^2\theta})
 
 
 ### テスト
