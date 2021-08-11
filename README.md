@@ -87,7 +87,7 @@
 
 ## 積を和にする公式
 
-![formula](https://latex.codecogs.com/gif.latex?\sin\alpha\cos\beta=\farc{1}{2}\{\sin(\alpha+\beta)+\sin(\alpha-\beta)\})
+![formula](https://latex.codecogs.com/gif.latex?\sin\alpha\cos\beta=\farc{1}{2}(\sin(\alpha+\beta)+\sin(\alpha-\beta)))
 
 
 ### テスト
