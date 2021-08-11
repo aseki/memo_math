@@ -65,13 +65,29 @@
      
 ![formula](https://latex.codecogs.com/gif.latex?\sin\beta=\frac{-a}{\sqrt{a^2+b^2}})
 
-### 2倍角の公式
+## 2倍角の公式
 
 ![formula](https://latex.codecogs.com/gif.latex?\sin2\theta=2\sin\theta\cos\theta)
 
-![formula](https://latex.codecogs.com/gif.latex?\cos2\theta=\cos^2\theta-sin^2\theta)
+![formula](https://latex.codecogs.com/gif.latex?\cos2\theta=\cos^2\theta-\sin^2\theta)
 
 ![formula](https://latex.codecogs.com/gif.latex?\tan2\theta=\frac{2\tan\theta}{1-\tan^2\theta})
+
+## 半角の公式
+
+![formula](https://latex.codecogs.com/gif.latex?\sin^2\theta=\frac{1-\cos2\theta}{2})
+
+![formula](https://latex.codecogs.com/gif.latex?\cos^2\theta=\frac{1+\cos2\theta}{2})
+
+#### 3倍角の公式
+
+![formula](https://latex.codecogs.com/gif.latex?\sin3\theta=3\sin\theta-4\sin^3\theta)
+
+![formula](https://latex.codecogs.com/gif.latex?\cos3\theta=4\cos^3\theta-3\cos\theta)
+
+## 積を和にする公式
+
+![formula](https://latex.codecogs.com/gif.latex?\sin\alpha\cos\beta=\farc{1}{2}\{\sin(\alpha+\beta)+\sin(\alpha-\beta)\})
 
 
 ### テスト
