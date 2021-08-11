@@ -87,12 +87,11 @@
 
 ## 積を和にする公式
 
-![formula](https://latex.codecogs.com/gif.latex?\sin\alpha\cos\beta=\frac{1}{2}(\sin(\alpha+\beta)+\sin(\alpha-\beta)))
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle\sin\alpha\cos\beta=\frac{1}{2}\{\sin(\alpha%2B\beta)+\sin(\alpha-\beta)\}">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \sin\alpha\cos\beta=\frac{1}{2}\{\sin(\alpha%2B\beta)+\sin(\alpha-\beta)\}">
 
 
 ### テスト
+
 ![formula](https://latex.codecogs.com/gif.latex?\sum_{n=1}^{N}a_n)
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
